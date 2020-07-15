@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # hugueds.github.io
 
 ## Intro
