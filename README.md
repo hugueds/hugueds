@@ -8,8 +8,7 @@ I'm very proud to choose this area and share my ideas with you.
 ## About
 
 I was born and raised in Sao Paulo, Brazil
-I've been working on a worldwide swedish company which produces Buses and Trucks located on São Bernardo do Campo - Brazil
-
+🔭 I’m currently working on swedish company which produces Buses and Trucks located on São Bernardo do Campo - Brazil
 
 ## Background
 
@@ -39,14 +38,17 @@ I've been working on a worldwide swedish company which produces Buses and Trucks
     * VB Script
 
 * Front-end
-    * HTML5
-    * CSS3
+    * HTML5 / CSS3
     * Javascript
     * jQuery
-    * AngularJS 1.X
-    * Angular 2+
+    * Angular 2+ / AngularJS 1.X 
     * ReactJS
-    * Ionic
+
+* Mobile
+   * Java
+   * Kotlin
+   * PWA
+   * React Native
     
 * Data Science
     * TensorFlow
