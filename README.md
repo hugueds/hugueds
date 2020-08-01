@@ -1,14 +1,7 @@
-# hugueds.github.io
+# Hugo Peres
 
-## Intro
 
-Hey! My name is Hugo (Hugueds if you are close to me) and Welcome to my personal repository.
-I'm very proud to choose this area and share my ideas with you.
-
-## About
-
-I was born and raised in Sao Paulo, Brazil
-🔭 I’m currently working on swedish company which produces Buses and Trucks located on São Bernardo do Campo - Brazil
+![](https://img.shields.io/badge/Engineering%20-Automation%20-blue)  ![](https://img.shields.io/badge/Studying%20-Data%20science%20-brightgreen)  ![](https://img.shields.io/badge/Love-Innovation-yellow)    [![](https://img.shields.io/static/v1?label=&message=Linkedin&logo=linkedin&logoColor=white&style=flat-square&color=blue)](https://www.linkedin.com/in/hugo-peres/) [![](https://img.shields.io/static/v1?label=&message=Instagram&logo=instagram&logoColor=white&style=flat-square&color=important)](https://www.instagram.com/huguedz/)
 
 ## Background
 
