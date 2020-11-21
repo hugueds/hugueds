@@ -18,17 +18,16 @@
 
 * Mechatronic
 
-## Areas of knowledge
+## Knowledge
 
-* Back-end
     * PHP
     * Python
-    * Node.js (Javascript)
+    * Node JS
     * ASP.NET and .NET Core
-    * Ladder (For PLC programming)
-    * SCADA and HMI
-    * SCL (Structured Control Language for Siemens)
-    * VB Script
+    * Ladder
+    * Siemens SCADA 
+    * SCL
+    * HMI & VB Script    
 
 * Front-end
     * HTML5 / CSS3
@@ -48,17 +47,6 @@
     * OpenCV
     * Deep Learning
     * Supervised and Unsupervised Learning
-
-* Databases
-    * SQL Server 2008
-    * MySQL
-    * MongoDB
-    * SQLite
-
-* Torque tools
-    * Atlas Copco Open Protocol
-    * Click Wrenches and Digital Click Wrenches    
-
 
 <!--
 **hugueds/hugueds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
