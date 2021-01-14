@@ -16,38 +16,16 @@
 
 #### Tech
 
-* Mechatronic
+* Mechatronics
 
 ## Knowledge
 
-* Backend
-    * PHP
-    * Python
-    * Node JS
-    * ASP.NET and .NET Core
-    * Ladder
-    * Siemens SCADA 
-    * SCL
-    * HMI & VB Script    
-
-* Front-end
-    * HTML5 / CSS3
-    * Javascript
-    * jQuery
-    * Angular 2+ / AngularJS 1.X 
-    * ReactJS
-
-* Mobile
-   * Java
-   * Kotlin
-   * PWA
-   * React Native
+* Backend: Node JS,  Python, PHP,  ASP.NET and .NET Core
+* Frontend: HTML5 / CSS3 / Javascript, jQuery, Angular 2+ and AngularJS 1.X, ReactJS
+* Mobile: Java, Kotlin, PWA, React Native
+* Industrial: Siemens WinCC SCADA and HMI, SCL & VB Script
     
-* Data Science
-    * TensorFlow
-    * OpenCV
-    * Deep Learning
-    * Supervised and Unsupervised Learning
+* Data Science: TensorFlow, OpenCV, Machine Learning and Deep Learning, Supervised and Unsupervised Learning
 
 <!--
 **hugueds/hugueds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
