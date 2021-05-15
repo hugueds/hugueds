@@ -1,26 +1,14 @@
 # Hugo Peres
 
-
 ![](https://img.shields.io/badge/Engineering%20-Automation%20-blue)  ![](https://img.shields.io/badge/Studying%20-Machine%20Learning%20-brightgreen)  ![](https://img.shields.io/badge/Love-Innovation-red)    [![](https://img.shields.io/static/v1?label=&message=Linkedin&logo=linkedin&logoColor=white&style=flat-square&color=blue)](https://www.linkedin.com/in/hugo-peres/) [![](https://img.shields.io/static/v1?label=&message=Instagram&logo=instagram&logoColor=white&style=flat-square&color=important)](https://www.instagram.com/huguedz/) [![](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/hugueds/)
 
-
-
-## Background
-
-#### Specialization Degree
-
-* Industrial Automation
-
-#### Degree
+### Background
 
 * Bachelor of Science: Computer Engineering
-* Electronics - Emphasis in Industrial Automation
+* Industrial Automation Technologist
+* Mechatronics Certificate Program
 
-#### Tech
-
-* Mechatronics
-
-## Knowledge
+### Knowledge
 
 #### Backend
 
@@ -39,22 +27,9 @@
 
 #### Data Science / Machine Learning
 
-<img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?&style=for-the-badge&logo=opencv&logoColor=white"/> <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
+<img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?&style=for-the-badge&logo=opencv&logoColor=white"/> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 
+#### IoT
 
-<!--
-**hugueds/hugueds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>" <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
