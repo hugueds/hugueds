@@ -1,6 +1,10 @@
 # Hugo Peres
 
-![](https://img.shields.io/badge/Engineering%20-Automation%20-blue)  ![](https://img.shields.io/badge/Studying%20-Machine%20Learning%20-brightgreen)  ![](https://img.shields.io/badge/Love-Innovation-red)    [![](https://img.shields.io/static/v1?label=&message=Linkedin&logo=linkedin&logoColor=white&style=flat-square&color=blue)](https://www.linkedin.com/in/hugo-peres/) [![](https://img.shields.io/static/v1?label=&message=Instagram&logo=instagram&logoColor=white&style=flat-square&color=important)](https://www.instagram.com/huguedz/) [![](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/hugueds/)
+![](https://img.shields.io/badge/Engineering%20-Automation%20-blue)  ![](https://img.shields.io/badge/Studying%20-Machine%20Learning%20-brightgreen)  ![](https://img.shields.io/badge/Love-Innovation-red)    
+
+### Contact Me
+
+[![](https://img.shields.io/static/v1?label=&message=Linkedin&logo=linkedin&logoColor=white&style=flat-square&color=blue)](https://www.linkedin.com/in/hugo-peres/) [![](https://img.shields.io/static/v1?label=&message=Instagram&logo=instagram&logoColor=white&style=flat-square&color=important)](https://www.instagram.com/huguedz/) [![](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/hugueds/)
 
 ### Background
 
