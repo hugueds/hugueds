@@ -1,6 +1,6 @@
 # Hugo Peres
 
-![](https://img.shields.io/badge/Engineering%20-Automation%20-blue)  ![](https://img.shields.io/badge/Studying%20-Machine%20Learning%20-brightgreen)  ![](https://img.shields.io/badge/Love-Innovation-red)    
+![](https://img.shields.io/badge/Engineering%20-Computer%20-blue)  ![](https://img.shields.io/badge/Studying%20-Machine%20Learning%20-brightgreen)  ![](https://img.shields.io/badge/Love-Innovation-red)    
 
 ### 📬 Contact Me
 
